@@ -1,3 +1,5 @@
+#bevat zowel afvink 1 als 2
+
 userInput() {
 	echo "Geef een tijd in seconden:"
 	read input
