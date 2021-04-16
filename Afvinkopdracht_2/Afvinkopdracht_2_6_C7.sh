@@ -1,4 +1,5 @@
 #!/bin/bash
+#bevat zowel afvink 6 als 7
 
 
 userInput() {
